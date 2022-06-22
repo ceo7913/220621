@@ -1,7 +1,8 @@
 #### 220621
 
 
-``` int num = 0 ```
+``` javascript
+int num = 0 ```
 # 링크추가
 
 * 제목
